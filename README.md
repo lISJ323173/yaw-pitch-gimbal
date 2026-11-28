@@ -15,6 +15,7 @@ P 轴从水平位置起可上抬约 84°，闭环控制正在开发。
 
 - [云台开发记录](docs/gimbal.md)：当前 F103 云台进度、接线、P 轴标定与阶段实测结果。
 - [云台功能验收与已知限制](docs/gimbal-acceptance.md)
+- [云台演示视频](docs/gimbal-demo-video.md)：实物与联合测试两段视频及说明。
 - [架构设计](docs/architecture.md)：分层职责、舵机数据流、健康监测/IWDG、任务优先级与栈余量证据。
 - [接口说明](docs/interfaces.md)：UART、CAN、I2C、PWM 接口约定，指令协议与 CRC，地址/超时/缓冲区生命周期，以及启动期 UART 日志。
 - [移植与构建指南](docs/porting.md)：F407/F103 构建命令、ELF 路径、J-Link 目标、接线和验证范围。
